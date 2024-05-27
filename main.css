@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: center;
+    background: #D5E1EF;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    width: 320px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 15px;
+}
+
+.qrCodeImage {
+    width: 288px;
+    border-radius: 15px;
+}
+
+.qrCodeContainer {
+    display: flex;
+    padding: 10px;
+}
+
+.qrTextContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 0 30px 30px 30px;
+    align-items: center;
+}
+
+.qrTextHeader {
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 1.2;
+    letter-spacing: 0;
+
+    width: 288px;
+    color: #1F314F;
+    text-align: center;
+}
+
+.qrText {
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 1.2;
+    letter-spacing: 0.19px;
+
+    margin-top: 16px;
+    width: 256px;
+    color: #7D889E;
+    text-align: center;
+}
