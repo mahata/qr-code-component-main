@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/mahata/qr-code-component-main](https://github.com/mahata/qr-code-component-mainm)
-- Live Site URL: [TODO](https://github.com/mahata/qr-code-component-main)
+- Live Site URL: [https://qr-code-component-main-mahata.netlify.app](https://qr-code-component-main-mahata.netlify.app)
 
 ## My process
 
