@@ -2,6 +2,8 @@ body {
     display: flex;
     justify-content: center;
     background: #D5E1EF;
+    height: 100vh;
+    align-items: center;
 }
 
 .cardContainer {
@@ -27,31 +29,33 @@ body {
 .qrTextContainer {
     display: flex;
     flex-direction: column;
-    padding: 0 30px 30px 30px;
+    padding: 0 30px 40px 30px;
     align-items: center;
 }
 
 .qrTextHeader {
     font-family: 'Outfit', sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 22px;
     line-height: 1.2;
     letter-spacing: 0;
 
     width: 288px;
+    height: 56px;
     color: #1F314F;
     text-align: center;
 }
 
 .qrText {
     font-family: 'Outfit', sans-serif;
-    font-weight: lighter;
+    font-weight: 300;
     font-size: 15px;
     line-height: 1.2;
     letter-spacing: 0.19px;
 
     margin-top: 16px;
     width: 256px;
+    height: 57px;
     color: #7D889E;
     text-align: center;
 }
